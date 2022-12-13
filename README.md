@@ -20,6 +20,15 @@
 ***Moddy, more than just a box.***
 <br/><br/>
 Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project Challenge 2022*** del corso [Gestione dell'Innovazione e dei Progetti M](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/468071). Consiste in una scatola *modulare*, i cui moduli possono essere assemblati per ottenere oggetti di vario tipo.
+<br />
+<br />
+<a href="./README.it.md">English</a>
+·
+<a href="./documents/Report.pdf">Report</a>
+·
+<a href="./documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
+·
+<a href="./documents/">Classifica</a>
 
 </div>
 
@@ -30,19 +39,19 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 Maggiori informazioni sulla challenge sono disponibili in [questo pdf](./resources/documents/GIP-M_Challenge_2022.pdf).
 
 #### Risultati 🏆
-Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato valutato da una commissione composta da diversi membri esperti in innovazione:
-- Daniela Dubla (MindsettER)
-- Gianluca Cristallo (Camst)
-- Luca Cerati (Coesia)
+Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere stato valutato da una commissione composta da esperti nel settore dell'innovazione:
+- [Daniela Dubla](https://www.linkedin.com/in/daniela-dubla-6639797/) (MindsettER)
+- [Gianluca Cristallo](https://www.linkedin.com/in/gianluca-cristallo-35992925/) (Camst)
+- [Luca Cerati](https://www.linkedin.com/in/luca-cerati-a1932b35/) (Coesia)
 - Marco Ghini (Coesia)
-- Maria Cecilia Flores (UNIBO-KTO)
+- [Maria Cecilia Flores](https://www.linkedin.com/in/maria-cecilia-flores-coluccio/) (UNIBO-KTO)
 
 ### Il Prodotto 💡
 
 <table>
   <tr align="center">
-    <td><a href=""><img width="75%" src="./commons/resources/imgs/team/"></a></td>
-    <td><a href=""><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href=""><img width="75%" src="./resources/images/ModdyPrototype.png"></a></td>
+    <td><a href=""><img width="75%" src="./resources/images/demo/ModdyAssembler.png"></a></td>
   </tr>
   <tr align="center">
     <td>Scatola Moddy 📦</td>
@@ -72,12 +81,12 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato
 <!--### Team 👥
 <table>
   <tr align="center">
-    <td><a href="https://github.com/Federicoand98"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
-    <td><a href="https://github.com/TryKatChup"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
-    <td><a href="https://github.com/Noesh"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
-    <td><a href="https://github.com/TankyThunderpaw"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
-    <td><a href="https://github.com/mikyll"><img width="75%" src="./commons/resources/imgs/team/avatar_Michele_Righi.png"></a></td>
-    <td><a href="https://github.com/francesco-paglia"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href="https://github.com/Federicoand98"><img width="500px" src="./resources/images/team/avatar_Federico_Andrucci.png"></a></td>
+    <td><a href="https://github.com/TryKatChup"><img width="500px" src="./resources/images/team/avatar_Karina_Chichifoi.png"></a></td>
+    <td><a href="https://github.com/Noesh"><img width="500px" src="./resources/images/team/avatar_Alex_Gianelli.png"></a></td>
+    <td><a href="https://github.com/TankyThunderpaw"><img width="500px" src="./resources/images/team/avatar_Lorenzo_Righi.png"></a></td>
+    <td><a href="https://github.com/mikyll"><img width="500px" src="./resources/images/team/avatar_Michele_Righi.png"></a></td>
+    <td><a href="https://github.com/francesco-paglia"><img width="500px" src="./resources/images/team/avatar_Francesco_Paglia.png"></a></td>
   </tr>
   <tr align="center">
     <td><b>Federico Andrucci</b></td>
@@ -88,16 +97,30 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato
     <td><b>Francesco Paglia</b></td>
   </tr>
   <tr align="center">
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>
+      <a href="https://github.com/Federicoand98"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+      <a href="https://www.linkedin.com/in/federico-andrucci-5571a0202/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/TryKatChup"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+      <a href="https://www.linkedin.com/in/karina-chichifoi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/Noesh"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+      <a href="https://www.linkedin.com/in/alex-gianelli/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/TankyThunderpaw"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+      <a href="https://www.linkedin.com/in/lorenzo-righi-5b4468151/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+    </td>
     <td>
       <a href="https://github.com/mikyll"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
       <a href="https://www.linkedin.com/in/michele-righi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
       <a href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40px" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"/></a>
     </td>
-    <td></td>
+    <td>
+      <a href="https://github.com/francesco-paglia"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+    </td>
   </tr>
 </table>
 -->
