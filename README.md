@@ -24,7 +24,7 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 
 ### Challenge 2022 ⚡
 - **Task**: Progettare un oggetto interattivo.
-- **Argomento**: Packaging intelligente 📦, sistema di trasporto di beni o alimenti.
+- **Argomento**: Packaging intelligente, sistema di trasporto di beni o alimenti.
 
 Maggiori informazioni sulla challenge sono disponibili in [questo pdf](./resources/documents/GIP-M_Challenge_2022.pdf).
 
@@ -35,6 +35,19 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato
 - Luca Cerati (Coesia)
 - Marco Ghini (Coesia)
 - Maria Cecilia Flores (UNIBO-KTO)
+
+### Il Prodotto 💡
+
+<table>
+  <tr align="center">
+    <td><a href=""><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href=""><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+  </tr>
+  <tr align="center">
+    <td>Scatola Moddy 📦</td>
+    <td>App MyModdy 📱💻</td>
+  </tr>
+</table>
 
 ### Deadline 📅
 - 07/11/2022 - Revisione Individuale (Presentazione Idea Progetto)
@@ -89,7 +102,7 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato
 -->
 
 ### Crediti 🙏
-Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/)
+- Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
 
 [unity-shield]: https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white
 [unity-url]: https://unity.com/
