@@ -23,8 +23,9 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 </div>
 
 ### Challenge 2022 ⚡
-- **Task**: Progettare un oggetto interattivo
-- **Argomento**: Packaging intelligente 📦, sistema di trasporto di beni o alimenti
+- **Task**: Progettare un oggetto interattivo.
+- **Argomento**: Packaging intelligente 📦, sistema di trasporto di beni o alimenti.
+
 Maggiori informazioni sulla challenge sono disponibili in [questo pdf](./resources/documents/GIP-M_Challenge_2022.pdf).
 
 #### Risultati 🏆
