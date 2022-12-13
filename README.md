@@ -1,12 +1,13 @@
 <div align="center">
 
-[![c#][c#-shield]][c#-url]
-[![Unity][unity-shield]][unity-url]
-[![Figma][figma-shield]][figma-url]
 [![License][license-shield]][license-url]
 [![Downloads][downloads-shield]][downloads-url]
 [![Stars][stars-shield]][stars-url]
-[![Moddularity][moddularity-shield]][moddularity-url]
+[![Moddularity][moddularity-shield]][moddularity-url]\
+[![c#][c#-shield]][c#-url]
+[![Unity][unity-shield]][unity-url]
+[![Figma][figma-shield]][figma-url]
+
 </div>
 
 <div align="center">
