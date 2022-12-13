@@ -78,7 +78,7 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
   - [ ] Documento di progetto
 - [ ] Website (github.io)
 
-### Team 👥
+<!--### Team 👥
 <table>
   <tr align="center">
     <td><a href="https://github.com/Federicoand98"><img width="500px" src="./resources/images/team/avatar_Federico_Andrucci.png"></a></td>
