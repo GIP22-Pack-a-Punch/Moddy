@@ -15,25 +15,30 @@
 <img width="50%" src="./gfx/Logo_Gionnino9000_Dark.png#gh-light-mode-only"/>-->
 <br/><br/>
 
-Repository del nostro progetto per il corso di Gestione dell'Innovazione e dei Progetti M 2022
-<a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/468002">Fondamenti di Intelligenza Artificiale M</a>.
-Per maggiori informazioni sulle regole del gioco, sulle regole della competizione e sulla strategia adottata, clicca
-<a href="./About.md">qui</a>.
+***Moddy, more than just a box.***
+<br/><br/>
+Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project Challenge 2022*** del corso [Gestione dell'Innovazione e dei Progetti M](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/468071). Consiste in una scatola *modulare*, i cui moduli possono essere assemblati per ottenere oggetti di vario tipo.
 
 </div>
 
-# Moddy
-In questa repo potremmo caricare tutta la roba finita, tra cui report, presentazione e release dell'app.
-
-### Tema Challenge 2022
+### Challenge 2022 ⚡
 - **Task**: Progettare un oggetto interattivo
-- **Argomento**: Packaging intelligente, sistema di trasporto di beni o alimenti
+- **Argomento**: Packaging intelligente 📦, sistema di trasporto di beni o alimenti
+Maggiori informazioni sulla challenge sono disponibili in [questo pdf](./resources/documents/GIP-M_Challenge_2022.pdf).
+
+#### Risultati 🏆
+Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato valutato da una commissione composta da diversi membri esperti in innovazione:
+- Daniela Dubla (MindsettER)
+- Gianluca Cristallo (Camst)
+- Luca Cerati (Coesia)
+- Marco Ghini (Coesia)
+- Maria Cecilia Flores (UNIBO-KTO)
 
 ### Deadline
 
 
-### Roadmap
-- [ ] App MyModdy
+### Roadmap 📍
+- [ ] Finire App MyModdy
   - [ ] Prototipo/beta
   - [ ] Drag & drop
   - [ ] UI adattabile a risoluzioni diverse (script che se width < height modifica i parametri e sposta gli elementi per la visualizzazione mobile)
@@ -44,6 +49,41 @@ In questa repo potremmo caricare tutta la roba finita, tra cui report, presentaz
   - [ ] Documento di progetto
 - [ ] Website (github.io)
 
+<!--### Team 👥
+<table>
+  <tr align="center">
+    <td><a href="https://github.com/Federicoand98"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href="https://github.com/TryKatChup"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href="https://github.com/Noesh"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href="https://github.com/TankyThunderpaw"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+    <td><a href="https://github.com/mikyll"><img width="75%" src="./commons/resources/imgs/team/avatar_Michele_Righi.png"></a></td>
+    <td><a href="https://github.com/francesco-paglia"><img width="75%" src="./commons/resources/imgs/team/"></a></td>
+  </tr>
+  <tr align="center">
+    <td><b>Federico Andrucci</b></td>
+    <td><b>Karina Chichifoi</b></td>
+    <td><b>Alex Gianelli</b></td>
+    <td><b>Lorenzo Righi</b></td>
+    <td><b>Michele Righi</b></td>
+    <td><b>Francesco Paglia</b></td>
+  </tr>
+  <tr align="center">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+      <a href="https://github.com/mikyll"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+      <a href="https://www.linkedin.com/in/michele-righi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+      <a href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40px" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"/></a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+-->
+
+### Crediti 🙏
+Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/)
 
 [unity-shield]: https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white
 [unity-url]: https://unity.com/
