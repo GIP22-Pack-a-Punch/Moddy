@@ -123,7 +123,6 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
     </td>
   </tr>
 </table>
--->
 
 ### Crediti 🙏
 - Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
