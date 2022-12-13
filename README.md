@@ -1,5 +1,6 @@
 <div align="center">
 
+[![c#][c#-shield]][c#-url]
 [![Unity][unity-shield]][unity-url]
 [![Figma][figma-shield]][figma-url]
 [![License][license-shield]][license-url]
@@ -34,8 +35,12 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre, dopo essere stato
 - Marco Ghini (Coesia)
 - Maria Cecilia Flores (UNIBO-KTO)
 
-### Deadline
-
+### Deadline 📅
+- 07/11/2022 - Revisione Individuale (Presentazione Idea Progetto)
+- 30/11/2022 - Prova Pitch Presentazione
+- 12/12/2022 - Presentazione Progetto
+- 19/12/2022 - Consegna Report
+- 22/12/2022 - Primo Appello GIP M
 
 ### Roadmap 📍
 - [ ] Finire App MyModdy
@@ -89,7 +94,7 @@ Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon
 [unity-url]: https://unity.com/
 [figma-shield]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white
 [figma-url]: https://www.figma.com/
-[c#-shield]: https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white
+[c#-shield]: https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 [downloads-shield]: https://img.shields.io/github/downloads/GIP22-Pack-a-Punch/Moddy/total
