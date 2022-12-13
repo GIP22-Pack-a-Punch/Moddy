@@ -78,7 +78,7 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
   - [ ] Documento di progetto
 - [ ] Website (github.io)
 
-<!--### Team 👥
+### Team 👥
 <table>
   <tr align="center">
     <td><a href="https://github.com/Federicoand98"><img width="500px" src="./resources/images/team/avatar_Federico_Andrucci.png"></a></td>
@@ -120,6 +120,7 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
     </td>
     <td>
       <a href="https://github.com/francesco-paglia"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
+      <a href="https://www.linkedin.com/in/francesco-paglia-8b877325a/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
     </td>
   </tr>
 </table>
