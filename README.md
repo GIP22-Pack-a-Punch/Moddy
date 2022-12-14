@@ -12,16 +12,15 @@
 
 <div align="center">
 <br/>
-<img width="80" src="./resources/logo/ModdyLogo.svg"/>
+<img width="100px" src="./resources/logo/ModdyLogo.svg"/>
 <!--<img width="50%" src="./gfx/Logo_Gionnino9000_Light.png#gh-dark-mode-only"/>
 <img width="50%" src="./gfx/Logo_Gionnino9000_Dark.png#gh-light-mode-only"/>-->
-<br/><br/>
+<br/>
 
-***Moddy, more than just a box.***
-<br/><br/>
+<h1>Moddy: more than just a box.</h1>
+
 Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project Challenge 2022*** del corso [Gestione dell'Innovazione e dei Progetti M](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/468071). Consiste in una scatola *modulare*, i cui moduli possono essere assemblati per ottenere oggetti di vario tipo.
-<br />
-<br />
+
 <a href="./README.it.md">English</a>
 ·
 <a href="./documents/Report.pdf">Report</a>
