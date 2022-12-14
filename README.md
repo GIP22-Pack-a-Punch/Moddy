@@ -129,6 +129,8 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 ### Crediti 🙏
 - Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
 
+TO-DO: autografo professoressa + classifica
+
 [unity-shield]: https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white
 [unity-url]: https://unity.com/
 [figma-shield]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white
