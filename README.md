@@ -23,11 +23,11 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 
 <a href="./README.it.md">English</a>
 ·
-<a href="./documents/Report.pdf">Report</a>
+<a href="./resources/documents/Report.pdf">Report</a>
 ·
-<a href="./documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
+<a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
 ·
-<a href="./documents/">Classifica</a>
+<a href="./resources/documents/">Classifica</a>
 
 </div>
 
