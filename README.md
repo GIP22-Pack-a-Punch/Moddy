@@ -58,25 +58,6 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
   </tr>
 </table>
 
-### Deadline 📅
-- 07/11/2022 - Revisione Individuale (Presentazione Idea Progetto)
-- 30/11/2022 - Prova Pitch Presentazione
-- 12/12/2022 - Presentazione Progetto
-- 19/12/2022 - Consegna Report
-- 22/12/2022 - Primo Appello GIP M
-
-### Roadmap 📍
-- [ ] Finire App MyModdy
-  - [ ] Prototipo/beta
-  - [ ] Drag & drop
-  - [ ] UI adattabile a risoluzioni diverse (script che se width < height modifica i parametri e sposta gli elementi per la visualizzazione mobile)
-  - [ ] Refactor design + palette
-  - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
-- [ ] Presentazione: fare versione pdf -> niente animazioni né GIF
-- [ ] Report
-  - [ ] Documento di progetto
-- [ ] Website (github.io)
-
 ### Team 👥
 <table>
   <tr align="center">
@@ -126,6 +107,25 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 
 ### Classifica
 <img width="400px" src="./resources/images/Classifica.png">
+
+### Deadline 📅
+- 07/11/2022 - Revisione Individuale (Presentazione Idea Progetto)
+- 30/11/2022 - Prova Pitch Presentazione
+- 12/12/2022 - Presentazione Progetto
+- 19/12/2022 - Consegna Report
+- 22/12/2022 - Primo Appello GIP M
+
+### Roadmap 📍
+- [ ] Finire App MyModdy
+  - [ ] Prototipo/beta
+  - [ ] Drag & drop
+  - [ ] UI adattabile a risoluzioni diverse (script che se width < height modifica i parametri e sposta gli elementi per la visualizzazione mobile)
+  - [ ] Refactor design + palette
+  - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
+- [x] Presentazione: fare versione pdf -> niente animazioni né GIF
+- [x] Report
+  - [x] Documento di progetto
+- [ ] Website (github.io)
 
 ### Crediti 🙏
 - Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
