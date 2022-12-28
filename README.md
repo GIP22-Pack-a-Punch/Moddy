@@ -77,7 +77,7 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
   - [ ] Documento di progetto
 - [ ] Website (github.io)
 
-<!--### Team 👥
+### Team 👥
 <table>
   <tr align="center">
     <td><a href="https://github.com/Federicoand98"><img width="500px" src="./resources/images/team/avatar_Federico_Andrucci.png"></a></td>
@@ -123,12 +123,14 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
     </td>
   </tr>
 </table>
--->
+
+### Classifica
+<img width="400px" src="./resources/images/Classifica.png">
 
 ### Crediti 🙏
 - Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
 
-TO-DO: autografo professoressa + classifica
+<!-- TO-DO: autografo professoressa + classifica -->
 
 [unity-shield]: https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white
 [unity-url]: https://unity.com/
