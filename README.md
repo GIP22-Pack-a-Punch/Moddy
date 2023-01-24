@@ -128,6 +128,7 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 </table>
 
 ### Crediti 🙏
+- Il miglior sito del mondo per creare GIF: [EzGIF](https://ezgif.com/).
 - Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
 
 <!-- TO-DO: autografo professoressa + classifica -->
