@@ -28,6 +28,8 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 <a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
 ·
 <a href="./resources/documents/">Classifica</a>
+  ·
+<a href="https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest">Download App</a>
 
 </div>
 
@@ -49,8 +51,8 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 
 <table>
   <tr align="center">
-    <td><a href=""><img width="75%" src="./resources/images/ModdyPrototype.png"></a></td>
-    <td><a href=""><img width="75%" src="./resources/images/demo/ModdyAssembler.png"></a></td>
+    <td><a href=""><img width="60%" src="./resources/images/ModdyPrototype.png"></a></td>
+    <td><a href=""><img width="100%" src="./resources/images/demo/mobile/MyModdy_Builder.gif"></a></td>
   </tr>
   <tr align="center">
     <td>Scatola Moddy 📦</td>
@@ -64,13 +66,14 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 - 12/12/2022 - Presentazione Progetto
 - 19/12/2022 - Consegna Report
 - 22/12/2022 - Primo Appello GIP M
+- 27/01/2023 - Termine Iscrizione Call for Startup 2023 (ore 14:00)
 
 ### Roadmap 📍
 - [ ] Finire App MyModdy
-  - [ ] Prototipo/beta
+  - [x] Prototipo/beta
   - [ ] Drag & drop
-  - [ ] UI adattabile a risoluzioni diverse (script che se width < height modifica i parametri e sposta gli elementi per la visualizzazione mobile)
-  - [ ] Refactor design + palette
+  - [x] UI adattabile a risoluzioni diverse (script che se width < height modifica i parametri e sposta gli elementi per la visualizzazione mobile)
+  - [x] Refactor design + palette
   - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
 - [x] Presentazione: fare versione pdf -> niente animazioni né GIF
 - [x] Report
