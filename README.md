@@ -51,8 +51,8 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 
 <table>
   <tr align="center">
-    <td><a href=""><img width="60%" src="./resources/images/ModdyPrototype.png"></a></td>
-    <td><a href=""><img width="100%" src="./resources/images/demo/mobile/MyModdy_Builder.gif"></a></td>
+    <td><img width="60%" src="./resources/images/ModdyPrototype.png"></td>
+    <td><a href="https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest"><img width="100%" src="./resources/images/demo/mobile/MyModdy_Builder.gif"></a></td>
   </tr>
   <tr align="center">
     <td>Scatola Moddy 📦</td>
