@@ -13,8 +13,6 @@
 <div align="center">
 <br/>
 <img width="100px" src="./resources/logo/ModdyLogo.svg"/>
-<!--<img width="50%" src="./gfx/Logo_Gionnino9000_Light.png#gh-dark-mode-only"/>
-<img width="50%" src="./gfx/Logo_Gionnino9000_Dark.png#gh-light-mode-only"/>-->
 <br/>
 
 <h1>Moddy: more than just a box.</h1>
