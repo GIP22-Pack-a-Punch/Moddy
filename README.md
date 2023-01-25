@@ -67,16 +67,29 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 - 27/01/2023 - Termine Iscrizione Call for Startup 2023 (ore 14:00)
 
 ### Roadmap 📍
-- [ ] Finire App MyModdy
-  - [x] Prototipo/beta
-  - [ ] Drag & drop
-  - [x] UI adattabile a risoluzioni diverse (script che se width < height modifica i parametri e sposta gli elementi per la visualizzazione mobile)
-  - [x] Refactor design + palette
-  - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
-- [x] Presentazione: fare versione pdf -> niente animazioni né GIF
-- [x] Report
-  - [x] Documento di progetto
+- [ ] App MyModdy
+  - [ ] Scena Menu
+    - [ ] Menu laterale
+    - [ ] Scan Moddy (NFC)
+    - [ ] View dettaglio MyModdies (inventario)
+    - [ ] View Impostazioni
+    - [ ] View About
+    - [ ] View Help
+  - [ ] Scena Builder
+    - [ ] Clippare l'oggetto di scena in modo che non esca dall'environment
+    - [ ] Aggiungere controlli separarti (slider o sfera con 3 archi) per ruotare/spostare l'oggetto nella scena
+    - [ ] Drag & drop pezzi e/o aggiunta con click (più semplice)
+    - [ ] Cardboard texture per i pezzi
+    - [ ] View Generate Moddy (con GIF/SVG di caricamento -logo Moddy che si compone- mentre l'IA genera le scatole)
+    - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
 - [ ] Website (github.io)
+    
+Scene Builder:
++ cardboard texture per i pezzi;
++ view generate box;
++ gif/svg di caricamento (logo Moddy che si compone) mentre l'IA genera le scatole;
++ slider per explode?;
+    
 
 ### Team 👥
 <table>
