@@ -25,7 +25,7 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 ·
 <a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
 ·
-<a href="./resources/documents/">Classifica</a>
+<a href="./resources/images/Classifica.png">Classifica</a>
   ·
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest">Download App</a>
 
