@@ -83,13 +83,6 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
     - [ ] View Generate Moddy (con GIF/SVG di caricamento -logo Moddy che si compone- mentre l'IA genera le scatole)
     - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
 - [ ] Website (github.io)
-    
-Scene Builder:
-+ cardboard texture per i pezzi;
-+ view generate box;
-+ gif/svg di caricamento (logo Moddy che si compone) mentre l'IA genera le scatole;
-+ slider per explode?;
-    
 
 ### Team 👥
 <table>
