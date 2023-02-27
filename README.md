@@ -31,14 +31,14 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 
 </div>
 
-### Challenge 2022 ⚡
+### Challenge GIP 2022 ⚡
 - **Task**: Progettare un oggetto interattivo.
 - **Argomento**: Packaging intelligente, sistema di trasporto di beni o alimenti.
 
 Maggiori informazioni sulla challenge sono disponibili in [questo pdf](./resources/documents/GIP-M_Challenge_2022.pdf).
 
 #### Risultati 🏆
-Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere stato valutato da una commissione composta da esperti nel settore dell'innovazione:
+Il nostro team si è qualificato ***primo*** 🥇 su 14 squadre 🎉, dopo essere stato valutato da una commissione composta da esperti nel settore dell'innovazione:
 - [Daniela Dubla](https://www.linkedin.com/in/daniela-dubla-6639797/) (MindsettER)
 - [Gianluca Cristallo](https://www.linkedin.com/in/gianluca-cristallo-35992925/) (Camst)
 - [Luca Cerati](https://www.linkedin.com/in/luca-cerati-a1932b35/) (Coesia)
@@ -58,6 +58,9 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
   </tr>
 </table>
 
+### Call for Startup 🚀 <!-- 🦄 -->
+Il nostro progetto è stato ***selezionato*** come idea emergente per la [Call for Startup 2023](https://site.unibo.it/idea/it/la-nostra-idea/attivita-e-iniziative/call-for-start-up), posizionato ***19°*** 🎯 su un totale di 97 progetti 🎉.
+
 ### Deadline 📅
 - 07/11/2022 - Revisione Individuale (Presentazione Idea Progetto)
 - 30/11/2022 - Prova Pitch Presentazione
@@ -65,8 +68,12 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
 - 19/12/2022 - Consegna Report
 - 22/12/2022 - Primo Appello GIP M
 - 27/01/2023 - Termine Iscrizione Call for Startup 2023 (ore 14:00)
+- 27/02/2023 - Uscita graduatorie Call for Startup 2023
 
 ### Roadmap 📍
+
+<details>
+
 - [ ] App MyModdy
   - [ ] Scena Menu
     - [ ] Menu laterale
@@ -83,6 +90,8 @@ Il nostro team si è qualificato **primo** 🥇 su 14 squadre 🎉, dopo essere 
     - [ ] View Generate Moddy (con GIF/SVG di caricamento -logo Moddy che si compone- mentre l'IA genera le scatole)
     - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
 - [ ] Website (github.io)
+
+</details>
 
 ### Team 👥
 <table>
