@@ -19,14 +19,16 @@
 
 Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project Challenge 2022*** del corso [Gestione dell'Innovazione e dei Progetti M](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/468071). Consiste in una scatola *modulare*, i cui moduli possono essere assemblati per ottenere oggetti di vario tipo.
 
-<a href="./README.it.md">English</a>
-·
+<!-- <a href="./README.it.md">English</a>
+· -->
 <a href="./resources/documents/ReportModdy_Pack-a-Punch.pdf">Report</a>
 ·
 <a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
 ·
 <a href="./resources/images/Classifica.png">Classifica</a>
-  ·
+·
+<a href="https://linktr.ee/mymoddy">LinkTree</a>
+·
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest">Download App</a>
 
 </div>
@@ -46,7 +48,6 @@ Il nostro team si è qualificato ***primo*** 🥇 su 14 squadre 🎉, dopo esser
 - [Maria Cecilia Flores](https://www.linkedin.com/in/maria-cecilia-flores-coluccio/) (UNIBO-KTO)
 
 ### Il Prodotto 💡
-
 <table>
   <tr align="center">
     <td><img width="60%" src="./resources/images/ModdyPrototype.png"></td>
@@ -57,6 +58,15 @@ Il nostro team si è qualificato ***primo*** 🥇 su 14 squadre 🎉, dopo esser
     <td>App MyModdy 📱💻</td>
   </tr>
 </table>
+
+<!--
+### Presentazione 👨‍🏫
+<div align="center">
+  <a href="https://youtu.be/IkbLYq1PmRs"><img src="./resources/images/demo/Play_YouTube.png" alt="Video di Presentazione" width=40%"/></a>
+  <br/>
+	Video di Presentazione
+</div>
+-->
 
 ### Call for Startup 🚀 <!-- 🦄 -->
 Il nostro progetto è stato ***selezionato*** come idea emergente per la [Call for Startup 2023](https://site.unibo.it/idea/it/la-nostra-idea/attivita-e-iniziative/call-for-start-up), posizionato ***19°*** 🎯 su un totale di 97 progetti 🎉.
