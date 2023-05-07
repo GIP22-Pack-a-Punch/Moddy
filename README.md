@@ -17,15 +17,15 @@
 
 <h1>Moddy: more than just a box.</h1>
 
-Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project Challenge 2022*** del corso [Gestione dell'Innovazione e dei Progetti M](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/468071). Consiste in una scatola *modulare*, i cui moduli possono essere assemblati per ottenere oggetti di vario tipo.
+Moddy is the project of our team Pack-a-Punch, created for the ***Project Challenge 2022*** of the course [Innovation and Project Management M](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/468071). It consists of a *modular* box, which modules can be assembled to obtain various types of objects.
 
-<!-- <a href="./README.it.md">English</a>
-· -->
-<a href="./resources/documents/ReportModdy_Pack-a-Punch.pdf">Report</a>
+<a href="./README.it.md">Italian</a>
 ·
-<a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentazione</a>
+<a href="./resources/documents/ReportModdy_Pack-a-Punch.pdf">Report (IT)</a>
 ·
-<a href="./resources/images/Classifica.png">Classifica</a>
+<a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentation (IT)</a>
+·
+<a href="./resources/images/Ranking.png">Ranking</a>
 ·
 <a href="https://linktr.ee/mymoddy">LinkTree</a>
 ·
@@ -33,72 +33,72 @@ Moddy è il progetto del nostro team Pack-a-Punch, realizzato per la ***Project 
 
 </div>
 
-### Challenge GIP 2022 ⚡
-- **Task**: Progettare un oggetto interattivo.
-- **Argomento**: Packaging intelligente, sistema di trasporto di beni o alimenti.
+### IPM Challenge 2022 ⚡
+- **Task**: Design an interactive object.
+- **Topic**: Intelligent packaging, goods or food transport system.
 
-Maggiori informazioni sulla challenge sono disponibili in [questo pdf](./resources/documents/GIP-M_Challenge_2022.pdf).
+More information about the challenge are available in [this pdf (IT)](./resources/documents/GIP-M_Challenge_2022.pdf).
 
-#### Risultati 🏆
-Il nostro team si è qualificato ***primo*** 🥇 su 14 squadre 🎉, dopo essere stato valutato da una commissione composta da esperti nel settore dell'innovazione:
+#### Results 🏆
+Our team classified ***first*** 🥇 out of 14 teams 🎉, after being evaluated by a commission of experts in the field of innovation:
 - [Daniela Dubla](https://www.linkedin.com/in/daniela-dubla-6639797/) (MindsettER)
 - [Gianluca Cristallo](https://www.linkedin.com/in/gianluca-cristallo-35992925/) (Camst)
 - [Luca Cerati](https://www.linkedin.com/in/luca-cerati-a1932b35/) (Coesia)
 - Marco Ghini (Coesia)
 - [Maria Cecilia Flores](https://www.linkedin.com/in/maria-cecilia-flores-coluccio/) (UNIBO-KTO)
 
-### Il Prodotto 💡
+### The Product 💡
 <table>
   <tr align="center">
     <td><img width="60%" src="./resources/images/ModdyPrototype.png"></td>
     <td><a href="https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest"><img width="100%" src="./resources/images/demo/mobile/MyModdy_Builder.gif"></a></td>
   </tr>
   <tr align="center">
-    <td>Scatola Moddy 📦</td>
-    <td>App MyModdy 📱💻</td>
+    <td>Moddy Box 📦</td>
+    <td>MyModdy App 📱💻</td>
   </tr>
 </table>
 
 <!--
-### Presentazione 👨‍🏫
+### Presentation 👨‍🏫
 <div align="center">
-  <a href="https://youtu.be/IkbLYq1PmRs"><img src="./resources/images/demo/Play_YouTube.png" alt="Video di Presentazione" width=40%"/></a>
+  <a href="https://youtu.be/IkbLYq1PmRs"><img src="./resources/images/demo/Play_YouTube.png" alt="Presentation Video (IT)" width=40%"/></a>
   <br/>
-	Video di Presentazione
+	Presentation Video (IT)
 </div>
 -->
 
 ### Call for Startup 🚀 <!-- 🦄 -->
-Il nostro progetto è stato ***selezionato*** come idea emergente per la [Call for Startup 2023](https://site.unibo.it/idea/it/la-nostra-idea/attivita-e-iniziative/call-for-start-up), posizionato ***19°*** 🎯 su un totale di 97 progetti 🎉.
+Our project was ***selected*** as emerging idea for the [Call for Startup 2023](https://site.unibo.it/idea/it/la-nostra-idea/attivita-e-iniziative/call-for-start-up), classified ***19°*** 🎯 on a total of 97 projects 🎉.
 
 ### Deadline 📅
-- 07/11/2022 - Revisione Individuale (Presentazione Idea Progetto)
-- 30/11/2022 - Prova Pitch Presentazione
-- 12/12/2022 - Presentazione Progetto
-- 19/12/2022 - Consegna Report
-- 22/12/2022 - Primo Appello GIP M
-- 27/01/2023 - Termine Iscrizione Call for Startup 2023 (ore 14:00)
-- 27/02/2023 - Uscita graduatorie Call for Startup 2023
+- 07/11/2022 - Individual Revision (Project Idea Presentation)
+- 30/11/2022 - Pitch Presentation Test
+- 12/12/2022 - Official Project Presentation
+- 19/12/2022 - Report Submission
+- 22/12/2022 - First IPM M Exam Date
+- 27/01/2023 - Call for Startup 2023 Registration Deadline (14:00)
+- 27/02/2023 - Call for Startup 2023 Ranking Release
 
 ### Roadmap 📍
 
 <details>
 
 - [ ] App MyModdy
-  - [ ] Scena Menu
-    - [ ] Menu laterale
-    - [ ] Scan Moddy (NFC)
-    - [ ] View dettaglio MyModdies (inventario)
-    - [ ] View Impostazioni
-    - [ ] View About
-    - [ ] View Help
-  - [ ] Scena Builder
-    - [ ] Clippare l'oggetto di scena in modo che non esca dall'environment
-    - [ ] Aggiungere controlli separarti (slider o sfera con 3 archi) per ruotare/spostare l'oggetto nella scena
-    - [ ] Drag & drop pezzi e/o aggiunta con click (più semplice)
-    - [ ] Cardboard texture per i pezzi
-    - [ ] View Generate Moddy (con GIF/SVG di caricamento -logo Moddy che si compone- mentre l'IA genera le scatole)
-    - [ ] Rete neurale o comunque IA per generazione scatole (NB: Unity ha roba per reinforcement learning, potremmo usarla)
+  - [ ] Menu Scene
+    - [ ] Lateral Menu
+    - [ ] Moddy Scan (NFC)
+    - [ ] Detail View MyModdies (inventario)
+    - [ ] Settings View
+    - [ ] About View
+    - [ ] Help View
+  - [ ] Builder Scene
+    - [ ] Object clipping so it cannot leave the environment
+    - [ ] Separated controls (slider or sphere with 3 arcs) to rotate/translate the object inside the scene
+    - [ ] Drag & drop pieces or adding by click (easier to implement)
+    - [ ] Cardboard texture for pieces
+    - [ ] Generate Moddy View (loading GIF/SVG -maybe Moddy logo that builds- while the AI is generating the possible boxes)
+    - [ ] Neural Network or AI to generate boxes (Check out Unity reinforcement learning(?))
 - [ ] Website (github.io)
 
 </details>
@@ -150,9 +150,9 @@ Il nostro progetto è stato ***selezionato*** come idea emergente per la [Call f
   </tr>
 </table>
 
-### Crediti 🙏
-- Il miglior sito del mondo per creare GIF: [EzGIF](https://ezgif.com/).
-- Icone fornite da [Icons8](https://icons8.com/) e [Flaticon](https://www.flaticon.com/).
+### Credits 🙏
+- Best website to create GIFs: [EzGIF](https://ezgif.com/).
+- Icons provided by: [Icons8](https://icons8.com/) and [Flaticon](https://www.flaticon.com/).
 
 <!-- TO-DO: autografo professoressa + classifica -->
 
