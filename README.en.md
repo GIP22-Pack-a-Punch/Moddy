@@ -33,7 +33,7 @@ Moddy is the project of our team Pack-a-Punch, created for the ***Project Challe
 
 </div>
 
-### Challenge GIP 2022 ⚡
+### IPM Challenge 2022 ⚡
 - **Task**: Design an interactive object.
 - **Topic**: Intelligent packaging, goods or food transport system.
 
