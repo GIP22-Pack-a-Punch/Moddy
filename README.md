@@ -17,7 +17,7 @@
 
 <h1>Moddy: more than just a box.</h1>
 
-Moddy is the project of our team Pack-a-Punch, created for the ***Project Challenge 2022*** of the course [Innovation and Project Management M](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/468071). It consists of a *modular* box, which modules can be assembled to obtain various types of objects.
+Moddy is the project of our team Pack-a-Punch, created for the ***Project Challenge 2022*** of the course [Innovation and Project Management M](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/468071). It consists of a *modular* box, whose modules can be assembled to obtain various types of objects.
 
 <a href="./README.it.md">Italian</a>
 ·
