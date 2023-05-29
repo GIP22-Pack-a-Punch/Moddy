@@ -19,8 +19,7 @@
 
 Moddy is the project of our team Pack-a-Punch, created for the ***Project Challenge 2022*** of the course [Innovation and Project Management M](https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/468071). It consists of a *modular* box, whose modules can be assembled to obtain various types of objects.
 
-<a href="./README.it.md">Italian</a>
-·
+
 <a href="./resources/documents/ReportModdy_Pack-a-Punch.pdf">Report (IT)</a>
 ·
 <a href="./resources/documents/Presentazione_Moddy_Statica.pdf">Presentation (IT)</a>
@@ -30,7 +29,10 @@ Moddy is the project of our team Pack-a-Punch, created for the ***Project Challe
 <a href="https://linktr.ee/mymoddy">LinkTree</a>
 ·
 <a href="https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest">Download App</a>
+·
+<a href="./README.it.md">Italiano <kbd><img width="20px" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></kbd></a>
 
+	
 </div>
 
 ### IPM Challenge 2022 ⚡
