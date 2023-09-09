@@ -124,29 +124,29 @@ Il nostro progetto è stato ***selezionato*** come idea emergente per la [Call f
   </tr>
   <tr align="center">
     <td>
-      <a href="https://github.com/Federicoand98"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
-      <a href="https://www.linkedin.com/in/federico-andrucci-5571a0202/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+      <a href="https://github.com/Federicoand98"><img width="40px" src="https://img.icons8.com/color/96/000000/github.png"/></a>
+      <a href="https://www.linkedin.com/in/federico-andrucci-5571a0202/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     </td>
     <td>
-      <a href="https://github.com/TryKatChup"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
-      <a href="https://www.linkedin.com/in/karina-chichifoi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+      <a href="https://github.com/TryKatChup"><img width="40px" src="https://img.icons8.com/color/96/000000/github.png"/></a>
+      <a href="https://www.linkedin.com/in/karina-chichifoi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     </td>
     <td>
-      <a href="https://github.com/Noesh"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
-      <a href="https://www.linkedin.com/in/alex-gianelli/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+      <a href="https://github.com/Noesh"><img width="40px" src="https://img.icons8.com/color/96/000000/github.png"/></a>
+      <a href="https://www.linkedin.com/in/alex-gianelli/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     </td>
     <td>
-      <a href="https://github.com/TankyThunderpaw"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
-      <a href="https://www.linkedin.com/in/lorenzo-righi-5b4468151/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+      <a href="https://github.com/TankyThunderpaw"><img width="40px" src="https://img.icons8.com/color/96/000000/github.png"/></a>
+      <a href="https://www.linkedin.com/in/lorenzo-righi-5b4468151/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     </td>
     <td>
-      <a href="https://github.com/mikyll"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
-      <a href="https://www.linkedin.com/in/michele-righi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
-      <a href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40px" src="https://img.icons8.com/color/96/000000/stackoverflow.svg"/></a>
+      <a href="https://github.com/mikyll"><img width="40px" src="https://img.icons8.com/color/96/000000/github.png"/></a>
+      <a href="https://www.linkedin.com/in/michele-righi/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+      <a href="https://stackoverflow.com/users/19544859/mikyll98"><img width="40px" src="https://img.icons8.com/color/96/000000/stackoverflow.png"/></a>
     </td>
     <td>
-      <a href="https://github.com/francesco-paglia"><img width="40px" src="https://img.icons8.com/color/96/000000/github.svg"/></a>
-      <a href="https://www.linkedin.com/in/francesco-paglia-8b877325a/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.svg"/></a>
+      <a href="https://github.com/francesco-paglia"><img width="40px" src="https://img.icons8.com/color/96/000000/github.png"/></a>
+      <a href="https://www.linkedin.com/in/francesco-paglia-8b877325a/"><img width="40px" src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
     </td>
   </tr>
 </table>
