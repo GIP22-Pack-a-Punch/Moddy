@@ -169,7 +169,7 @@ Our project was ***selected*** as emerging idea for the [Call for Startup 2023](
 [downloads-url]: https://github.com/GIP22-Pack-a-Punch/Moddy/releases/latest
 [license-shield]: https://img.shields.io/github/license/GIP22-Pack-a-Punch/Moddy
 [license-url]: https://github.com/GIP22-Pack-a-Punch/Moddy/blob/main/LICENSE
-[stars-shield]: https://custom-icon-badges.herokuapp.com/github/stars/GIP22-Pack-a-Punch/Moddy?logo=star&logoColor=yellow
+[stars-shield]: https://custom-icon-badges.herokuapp.com/github/stars/GIP22-Pack-a-Punch/Moddy?logo=star&logoColor=yellow&style=flat
 [stars-url]: https://github.com/GIP22-Pack-a-Punch/Moddy/stargazers
 
 [moddularity-shield]: https://custom-icon-badges.herokuapp.com/badge/moddularity-100%25-salmon?logo=moddy
