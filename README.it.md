@@ -161,7 +161,7 @@ Il nostro progetto è stato ***selezionato*** come idea emergente per la [Call f
 [unity-url]: https://unity.com/
 [figma-shield]: https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white
 [figma-url]: https://www.figma.com/
-[c#-shield]: https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white
+[c#-shield]: https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
 
 [downloads-shield]: https://img.shields.io/github/downloads/GIP22-Pack-a-Punch/Moddy/total
